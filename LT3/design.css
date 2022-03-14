@@ -1,0 +1,187 @@
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainbox {
+    width:100%;
+    height: 950px;
+    background-color:red;
+    background-size:cover;
+    opacity: 87%;
+    margin:0;
+    padding:0;
+}
+#mainbox #firstrow {
+    height:400px;
+    width:100%;
+}
+#mainbox #secondrow {
+    width:100%;
+    height:400px;
+}
+#mainbox #firstrow .dog {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .dog img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .dog p {
+    font-size:12px; 
+}
+#mainbox #firstrow .cat {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .cat img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .cat p {
+    font-size:12px;
+}
+#mainbox #firstrow .bird {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .bird img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .bird p {
+    font-size:12px;
+}
+#mainbox #firstrow .fish {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige;
+}
+#mainbox #firstrow .fish img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .fish p {
+    font-size:12px;
+} 
+#mainbox #firstrow .hamster {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    margin-bottom: 1%;
+    float:left;
+    color: beige; 
+}
+#mainbox #firstrow .hamster img{
+    width:100%;
+    height:40%;
+}
+#mainbox #firstrow .hamster p {
+    font-size:12px;
+}
+#mainbox #secondrow .guinea {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .guinea img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .guinea p {
+    font-size:12px;
+}
+#mainbox #secondrow .mice {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .mice img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .mice p {
+    font-size:12px;
+}
+#mainbox #secondrow .rabbit {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .rabbit img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .rabbit p {
+    font-size:12px;
+}
+#mainbox #secondrow .turtle {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .turtle img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .turtle p {
+    font-size:12px;
+}
+#mainbox #secondrow .hedgehog {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px orange;
+    margin-left:3%;
+    float:left;
+    color: beige; 
+}
+#mainbox #secondrow .hedgehog img{
+    width:100%;
+    height:40%;
+}
+#mainbox #secondrow .hedgehog p {
+    font-size:12px;
+}
