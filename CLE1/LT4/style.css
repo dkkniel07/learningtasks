@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Proza Libre', sans-serif;
+}
+.background{
+    width: 100%;
+    min-height:  100vh;
+    background-image: linear-gradient(rgba(60, 104, 69, 0.372),rgba(80, 109, 188, 0.466)),url(images/dew.jpg);
+    background-size: cover;
+    background-position:center;
+    position: relative;
+}
+.textbox1{
+    float: left;
+    margin-left: 7%;
+    margin-top: 20%;
+}
+.textbox1 h1{
+    font-size: 45px;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: black;
+    -webkit-text-stroke-width: 0.7px;
+    -webkit-text-stroke-color: rgba(144, 238, 144, 0.51);;
+}
+.textbox1 h3{
+    font-size: 25px;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: rgba(50, 115, 246, 0.472);;
+}
+
+.textbox2{
+    float: right;
+    margin-right: 10%;
+    margin-top: 20%;
+}
+.textbox2 p{
+    font-size: 20px;
+    padding: 15px;
+    background: rgba(238, 238, 238, 0.668);
+    border-radius: 3px;
+    margin-bottom: 20px;
+    font-style: italic;
+    text-align: center;
+}
